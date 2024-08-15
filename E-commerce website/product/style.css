@@ -1,0 +1,7 @@
+form>div:nth-of-type(1) p{
+    
+    font-size: 24px;
+    font-weight: bold;
+    text-shadow: 2px 2px 2px yellow;
+    color: rgb(177, 202, 38);
+}
